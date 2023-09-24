@@ -13,3 +13,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] learned basics of markdown
+- [x] learned basics of html
+- [ ] backend dev
